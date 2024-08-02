@@ -2,3 +2,6 @@
 test/
 
 *.pyc
+*.pyo
+
+*.log
